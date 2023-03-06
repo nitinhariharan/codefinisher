@@ -3,7 +3,7 @@ import { Configuration, OpenAIApi } from "openai";
 import { matchSearchPhrase } from './utils/matchSearchPhrase';
 let str="";
 const configuration = new Configuration({
-    apiKey: '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',
+    apiKey: 'your api key',
   });
   const openai = new OpenAIApi(configuration);
 
