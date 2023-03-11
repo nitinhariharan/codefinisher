@@ -5,7 +5,7 @@ And it can is built using typescript and javascript ...
 
 The steps
 
-1.Install vs insider
+1.Install vs insider<br>
 2.clone this repository 
 3.cd codefinisher
 4.npm install
