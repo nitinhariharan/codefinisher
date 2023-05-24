@@ -9,7 +9,6 @@ The steps
 2.clone this repository<br>
 3.cd codefinisher<br>
 4.npm install<br>
-5.in ooen ai site get an api key and paste it in extension.ts<br>
-6.open extension.ts and run F5 command and enjoy the extension<br>
+5.open extension.ts and run F5 command and enjoy the extension<br>
 
 Happy coding!!!
